@@ -1,4 +1,4 @@
-We put the solutions to the written part here. For the questions, please refer to __a2.pdf__ in this folder.
+We put the solutions to the written part here. For the questions, please refer to [a2.pdf](https://github.com/huijunzhao-ds/cs224n/blob/master/a2/a2.pdf) in this folder.
 
 ### a 
 
