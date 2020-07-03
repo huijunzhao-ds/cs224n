@@ -1,4 +1,4 @@
-We put the proofs to questions in Problem 1 here. For the questions, please refer to __a2.pdf__ in this folder.
+We put the solutions to the written part here. For the questions, please refer to __a2.pdf__ in this folder.
 
 ### a 
 
